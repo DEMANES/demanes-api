@@ -1,0 +1,7 @@
+Export-Package: eu.artemis.demanes.datatypes,\
+	eu.artemis.demanes.exceptions,\
+	eu.artemis.demanes.lifecycle,\
+	eu.artemis.demanes.parameterization,\
+	eu.artemis.demanes.reconfiguration
+Service-Component: *
+-sub: *.bnd

@@ -1,0 +1,14 @@
+Bundle-Version: 1.0.0
+Export-Package:  \
+	eu.artemis.demanes.datatypes,\
+	eu.artemis.demanes.exceptions,\
+	eu.artemis.demanes.lifecycle,\
+	eu.artemis.demanes.parameterization,\
+	eu.artemis.demanes.reconfiguration,\
+	eu.artemis.demanes.logging
+Bundle-Name: DEMANES Core Interface
+Bundle-Description: The interfaces of the services provided by the DEMANES middleware
+Bundle-Category: demanes, middleware, interface
+Bundle-Copyright: TNO 2014
+Bundle-Vendor: TNO
+Bundle-ContactAddress: coen.vanleeuwen@tno.nl

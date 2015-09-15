@@ -1,0 +1,11 @@
+Export-Package:  \
+	eu.artemis.demanes.lib,\
+	eu.artemis.demanes.lib.exceptions,\
+	eu.artemis.demanes.lib.services
+Bundle-Version: 1.0.0
+Bundle-Name: DEMANES Library Interface
+Bundle-Description: The interfaces of the services provided by the library components in the DEMANES middleware
+Bundle-Category: demanes, middleware, interface
+Bundle-Copyright: TNO 2014
+Bundle-Vendor: TNO
+Bundle-ContactAddress: coen.vanleeuwen@tno.nl
